@@ -12,10 +12,15 @@ O limite no seu nível atual é 10, ou seja, você não pode gastar 3 upgrades n
 
 No NEX 30, você tem direito a
 - escolher sua TRILHA,  basicamente uma sub-classe, a parte mais complexazinha (porém MUITO importante pra ser forte). As opções são:
+
   ANIQUILADOR: Você tem UMA arma a qual você ama muito. Ela fica bem mais forte agora.
+
   COMANDANTE DE CAMPO: Você é suporte. Tu buffa teus amigos sendo um líder nato.
+
   GUERREIRO: Você gosta de corpo-a-corpo e fica bem melhor nisso, se você tem Fortitude e quer ser um tank que dá um daninho, essa é a trilha.
+
   OPERAÇÕES ESPECIAIS: Você é rápido, tem mais ações e Iniciativa alta (ataca primeiro).
+
   TROPA DE CHOQUE: Você tanka MUITO!
   
   DETALHE: AS TRILHAS FICAM MAIS FORTES CONFORME O PERSONAGEM, OU SEJA, VOCÊ TÁ ESCOLHENDO BENEFÍCIOS PRO FUTURO (se a campanha for longa)
