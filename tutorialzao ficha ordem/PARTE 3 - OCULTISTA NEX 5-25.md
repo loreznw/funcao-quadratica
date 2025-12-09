@@ -23,9 +23,13 @@ APENAS NEX 10 DAQUI PRA FRENTE!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 No NEX 10, você vai escolher sua TRILHA, basicamente uma sub-classe, a parte mais complexazinha (porém MUITO importante pra ser forte). As opções são:
 
 CONDUÍTE: Bem flexível, de início, seus rituais tem alcance maior, depois você pode conjurar mais e futuramente tu fica bem resistente contra rituais.
+
 FLAGELADOR: Você pode não gastar PE (mana) gastando 2x o preço em vida no lugar, no futuro, fica tank a dano não paranormal, resumindo, é pra quem quer tankar de mago (?).
+
 GRADUADO: Você tem mais rituais que o normal, no NEX 40, tem um grimório que armazena mais ainda, conjura mais facilmente e é aura!
+
 INTUITIVO: Você resiste a se abalar com o paranormal, ganhando vantagem contra efeitos de medo, persuasão, etc.
+
 LÂMINA PARANORMAL: Você tem uma arma corpo-a-corpo inbuída de algum elemento, causando mais dano. Você é um ''mago'' que luta de perto e tem uma arma muito aura e forte, porém, não tem tanta vida base, recomendável com Luta, Força/Agilidade (depende da arma) e alguma forma de proteção/Vigor.
  
 DETALHE: AS TRILHAS FICAM MAIS FORTES CONFORME O PERSONAGEM, OU SEJA, VOCÊ TÁ ESCOLHENDO BENEFÍCIOS PRO FUTURO (se a campanha for longa)
