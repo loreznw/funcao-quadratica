@@ -1,4 +1,5 @@
-Pergunte pro seu mestre em qual patente você está e siga essa tabela![[Pasted image 20251209000205.png]]
+Pergunte pro seu mestre em qual patente você está e siga essa tabela![Pasted image 20251209000205](Pasted%20image%2020251209000205.png)
+
 
 No CRIS, você pode adicionar itens (preste atenção no seu limite de carga) clicando no botão no canto inferior direito -> inventário -> Adicionar e selecionando (clicando no +) o que lhe interessar, sendo as únicas restrições a tabela acima e o limite de carga
 
