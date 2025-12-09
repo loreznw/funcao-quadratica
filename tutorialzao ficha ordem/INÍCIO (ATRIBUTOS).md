@@ -13,4 +13,5 @@ VIGOR - O quanto o corpo é RESISTENTE (não confundir c forte, isso é Força),
 PRESENÇA - O mais complicado e o porquê dessa parte do tutorial existir, praticamente é uma mistura de carisma (beleza, simpatia do seu personagem) com resiliência mental (o quanto ele é sábio, calmo e resistente a coisas ruins/amedrontadoras/tristes).
 
 PARTE 2!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
 [PARTE 2 - ORIGEM, CLASSE E DESCRIÇÃO](PARTE%202%20-%20ORIGEM,%20CLASSE%20E%20DESCRIÇÃO.md)
