@@ -35,8 +35,12 @@ São 5:
 E AS VANTAGENS E DESVANTAGENS SÃO:
 
 CONHECIMENTO>ENERGIA (a lógica supera inconsequência da Energia/caos)
+
 ENERGIA>MORTE (a imprevisibilidade supera a espera da Morte/tempo)
+
 MORTE>SANGUE (a resistência supera a efemeridade do Sangue/sentimentos)
+
 SANGUE>CONHECIMENTO (a intensidade supera a calmaria do Conhecimento/destino)
+
 
 (Medo não tem vantagem nem desvantagem)
