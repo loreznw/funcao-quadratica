@@ -3,11 +3,13 @@ Igual sistema de elementos de qualquer jogo (tipo pokemon), cada elemento tem se
 São 5:
 - Conhecimento
   
-  Tem relação com tudo que envolva descobrir e decifrar, é a representação de tudo que existe e do Destino, escrito em seus sigilos (códigos indecifráveis que registram tudo). Sua relíquia é a Magistrada, que sabe todo o destino e tem como papel cumpri-lo. Saber tudo é perder tudo.![Pasted image 20251208232613](Pasted%20image%2020251208232613.png)
+  Tem relação com tudo que envolva descobrir e decifrar, é a representação de tudo que existe e do Destino, escrito em seus sigilos (códigos indecifráveis que registram tudo). Sua relíquia é a Magistrada, que sabe todo o destino e tem como papel cumpri-lo. Saber tudo é perder tudo.
+  ![Pasted image 20251208232613](Pasted%20image%2020251208232613.png)
 
 - Energia
   
-  Tem relação com tecnologia e os elementos da natureza, além do PURO CAOS, ADRENALINA, JOGOS. A relíquia de energia é o Anfitrião, um MALUCO que constantemente muda de aparência e impacta o mundo normal fazendo jogos mortais e coisas do tipo, tal qual a energia, que é hipermutável e caótica. O Caos é inevitável.![imagem_300x300 1](imagem_300x300%201.png)
+  Tem relação com tecnologia e os elementos da natureza, além do PURO CAOS, ADRENALINA, JOGOS. A relíquia de energia é o Anfitrião, um MALUCO que constantemente muda de aparência e impacta o mundo normal fazendo jogos mortais e coisas do tipo, tal qual a energia, que é hipermutável e caótica. O Caos é inevitável.
+  ![imagem_300x300 1](imagem_300x300%201.png)
 
 - Morte
   
@@ -20,7 +22,9 @@ São 5:
   ![imagem3_300x300 1](imagem3_300x300%201.png)
 
 - Medo
-  Pouco se sabe sobre o medo, mas ele é a origem de todo o paranormal, afinal, ele só surge no mundo real pelo medo que elas sentem das criaturas. O Medo é infinito.![5af04247-bcc9-49df-a906-6344186945de 1](5af04247-bcc9-49df-a906-6344186945de%201.png)
+  Pouco se sabe sobre o medo, mas ele é a origem de todo o paranormal, afinal, ele só surge no mundo real pelo medo que elas sentem das criaturas. O Medo é infinito.
+  ![5af04247-bcc9-49df-a906-6344186945de 1](5af04247-bcc9-49df-a906-6344186945de%201.png)
+
 E AS VANTAGENS E DESVANTAGENS SÃO:
 
 CONHECIMENTO>ENERGIA (a lógica supera inconsequência da Energia/caos)
