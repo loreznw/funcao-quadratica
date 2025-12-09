@@ -13,10 +13,15 @@ O limite no seu nível atual é 10, ou seja, você não pode gastar 3 upgrades n
 
 No NEX 35, você tem direito a
 - escolher sua TRILHA, basicamente uma sub-classe, a parte mais complexazinha (porém MUITO importante pra ser forte). As opções são:
+
   ATIRADOR DE ELITE: Tu é um SNIPER, de início, tu só pode ter um rifle de caça ou de assalto, mas você é muito bom com esses três tipos de arma e ataca de longe. Dano p crl. Melhor com bastante Agilidade e Pontaria.
+
   INFILTRADOR: Tu é furtivo e ganha bônus para/ao atacar escondido. Melhor com bastante Agilidade e Furtividade.
+
   MÉDICO DE CAMPO: Você é um ótimo médico e cura muito (pode ser em você mesmo). Ideal com Medicina e Intelecto.
+
   NEGOCIADOR: Você é muito influente por algum motivo, tem muita lábia e em combate distrai os inimigos e incentiva os companheiros. Ideal com Diplomacia, Enganação ou Intimidação e Presença.
+
   TÉCNICO: Leva consigo MUITOS itens e é ótimo reparando e aprimorando eles. Ideal com...criatividade do player??
   
   DETALHE: AS TRILHAS FICAM MAIS FORTES CONFORME O PERSONAGEM, OU SEJA, VOCÊ TÁ ESCOLHENDO BENEFÍCIOS PRO FUTURO (se a campanha for longa)
