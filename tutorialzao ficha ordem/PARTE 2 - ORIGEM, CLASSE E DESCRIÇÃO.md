@@ -7,7 +7,9 @@ Escolhendo e clicando na marcação vermelha, chegamos na parte mais complicadin
 
 - OCULTISTA: Você estuda o Outro Lado (os coisa ruim) e sabe usar rituais (magias), o mais difícil de se jogar mas ainda é simples, aqui tu é o mago do time, pode ser healer, dar dano pra caralho e/ou ter poderes fora de combate como decifrar qualquer língua, manipular a mente dos outros ou ficar invisível. Se tu upou Presença/Intelecto, aqui é pra você.
   
-Então, depois de clicar em ''escolher'' na que tu quiser, tu vai chegar nessa página aqui que é só seu nome no Jogador e o do personagem (no de personagem ne crl)![Pasted image 20251208181410](Pasted%20image%2020251208181410.png)
+Então, depois de clicar em ''escolher'' na que tu quiser, tu vai chegar nessa página aqui que é só seu nome no Jogador e o do personagem (no de personagem ne crl)
+
+![Pasted image 20251208181410](Pasted%20image%2020251208181410.png)
 
 Agora, pergunta pro mestre qual NEX (nível) tu deve pôr e clica na parte 3 com o nome da sua classe e o NEX que ele disser:
 
